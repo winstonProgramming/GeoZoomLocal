@@ -100,4 +100,5 @@ def capture_screenshots():
 create_question_maps()
 capture_screenshots()
 
+# opening in web browser
 webbrowser.open('file://' + os.path.realpath('index.html'))
