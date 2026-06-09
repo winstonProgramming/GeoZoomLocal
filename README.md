@@ -4,9 +4,9 @@
 
 <p>I made GeoZoom with the help of the GeoPandas library in Python, but the bulk of the site is coded in html.</p>
 
-<p>Run GeoZoom locally at https://github.com/winstonProgramming/GeoZoomLocal</p>
+<p>Play at https://winstonprogramming.github.io/GeoZoomRemote/</p>
 
-<p>Alternatively, you can play at https://winstonprogramming.github.io/GeoZoomRemote/</p>
+<p>Alternatively, run GeoZoom locally at https://github.com/winstonProgramming/GeoZoomLocal</p>
 
 <div>
   <img src="GeoZoom Images/image 1.png" width=800px>
